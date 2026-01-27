@@ -14,8 +14,7 @@ Nyxi enforces execution-time authority at a single irreversible boundary: **prop
 **ALLOW ⇒ irreversible sink changes**
 
 ## Start here
-- `docs/PRODUCT.md` — what Nyxi is / is not
-- `docs/EVIDENCE.md` — how to read outputs (authorization vs execution outcomes)
+- `docs/PRODUCT.pdf` — what Nyxi is / is not
 - `outputs/` — sanitized demo runs / reports
 
 ## Related
