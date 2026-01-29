@@ -15,7 +15,9 @@ Nyxi enforces execution-time authority at a single irreversible boundary: **prop
 
 ## Start here
 - `docs/PRODUCT.pdf` — what Nyxi is / is not
-- `outputs/` — sanitized demo runs / reports
+  
+## Video Demonstration 
+- `https://github.com/indyh91/Nyxi-Showcase/releases/tag/V1.0.0
 
 ## Related
 - Execution Governance (category definition + proofs + black-box demo): <link to your execution-governance repo>
